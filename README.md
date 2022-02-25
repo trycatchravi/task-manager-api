@@ -5,18 +5,31 @@ User authentication to create task is also implemented.MongoDB is used to store 
 Possible test case scenarios are also covered.
 
 # Dependencies
+
 @sendgrid/mail
+
 bcrypt
+
 express
+
 jsonwebtoken
+
 mongodb
+
 mongoose
+
 multer
+
 sharp
+
 validator
 
 # devDependencies
+
 env-cmd
+
 jest
+
 supertest
+
 nodemon
